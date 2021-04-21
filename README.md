@@ -5,3 +5,5 @@
 </p>
 
 <hr>
+
+![C++](https://img.shields.io/badge/-C%2b%2b-090909?style=flat-square&logo=C%2b%2b)
