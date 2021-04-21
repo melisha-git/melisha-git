@@ -19,4 +19,5 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-[![Melisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=melisha-git&hide=stars,prs,issues,contribs&show_icons=true&theme=dracula&langs_count=3)](https://github.com/melisha-git)
+[![Melisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=melisha-git&hide=stars,prs,issues,contribs&show_icons=true&theme=dracula)](https://github.com/melisha-git)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melisha)](https://github.com/anuraghazra/github-readme-stats)
