@@ -15,4 +15,4 @@
 ![nginx](https://img.shields.io/badge/-nginx-090909?style=flat-square&logo=nginx&logoColor=ccf5ff)
 ![mysql](https://img.shields.io/badge/-mysql-090909?style=flat-square&logo=mysql&logoColor=ccf5ff)
 ![wordpress](https://img.shields.io/badge/-wordpress-090909?style=flat-square&logo=wordpress&logoColor=ccf5ff)
-![linux](https://img.shields.io/badge/-linux-090909?style=flat-square&logo=linux&logoColor=ccf5ff)
+![linux](https://img.shields.io/badge/-linux-090909?style=flat-square&logo=linux)
