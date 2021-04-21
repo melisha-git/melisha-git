@@ -20,4 +20,9 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-[![Melisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=melisha-git&hide=stars,prs,issues,contribs&show_icons=true&theme=dracula)](https://github.com/melisha-git)
+<p align="center">
+  <a href="https://github.com/ncliff-git">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melisha-git&show_icons=true&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melisha-git&layout=compact&theme=radical"/>
+  </a>
+</p>
