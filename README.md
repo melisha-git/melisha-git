@@ -23,6 +23,6 @@
 <p align="center">
   <a href="https://github.com/ncliff-git">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melisha-git&show_icons=true&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melisha-git&layout=compact&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melisha-git&layout=compact&theme=radical&hide=stars,commits,prs,issues,contribs"/>
   </a>
 </p>
