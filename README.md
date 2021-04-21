@@ -17,8 +17,6 @@
 [![wordpress](https://img.shields.io/badge/-wordpress-090909?style=flat-square&logo=wordpress)](https://en.wikipedia.org/wiki/WordPress)
 [![linux](https://img.shields.io/badge/-linux-090909?style=flat-square&logo=linux)](https://ru.wikipedia.org/wiki/Linux)
 
-<!-- &hide=stars,prs,issues,contribs - скрыл с дашборда stars, prs, issues contribs -->
-<!-- show_icons=true - показывать иконки -->
-<!-- theme=radical - тема -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 
-[![Melisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=melisha-git&hide=stars,prs,issues,contribs&show_icons=true&theme=dracula)](https://github.com/melisha-git)
+[![Melisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=melisha-git&hide=stars,prs,issues,contribs&show_icons=true&theme=dracula&langs_count=3)](https://github.com/melisha-git)
