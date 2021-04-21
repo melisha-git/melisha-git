@@ -16,6 +16,7 @@
 [![mysql](https://img.shields.io/badge/-mysql-090909?style=flat-square&logo=mysql)](https://ru.wikipedia.org/wiki/MySQL)
 [![wordpress](https://img.shields.io/badge/-wordpress-090909?style=flat-square&logo=wordpress)](https://en.wikipedia.org/wiki/WordPress)
 [![linux](https://img.shields.io/badge/-linux-090909?style=flat-square&logo=linux)](https://ru.wikipedia.org/wiki/Linux)
+[![Malefile](https://img.shields.io/badge/-Makefile-090909?style=flat-square&logo=make)](https://ru.wikipedia.org/wiki/Makefile)
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
