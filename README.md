@@ -16,3 +16,5 @@
 [![mysql](https://img.shields.io/badge/-mysql-090909?style=flat-square&logo=mysql)](https://ru.wikipedia.org/wiki/MySQL)
 [![wordpress](https://img.shields.io/badge/-wordpress-090909?style=flat-square&logo=wordpress)](https://en.wikipedia.org/wiki/WordPress)
 [![linux](https://img.shields.io/badge/-linux-090909?style=flat-square&logo=linux)](https://ru.wikipedia.org/wiki/Linux)
+
+[![Melisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=melisha-git)](https://github.com/melisha-git)
