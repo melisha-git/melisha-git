@@ -6,10 +6,10 @@
 
 <hr>
 
-## Skill list
+## Technology list
 ![C++](https://img.shields.io/badge/-C%2b%2b-090909?style=flat-square&logo=C%2b%2b)
 ![C](https://img.shields.io/badge/-C-090909?style=flat-square&logo=C)
-![NASM](https://img.shields.io/badge/-NASM-090909?style=flat-square&logo=nasm&logoColor=ccf5ff)
+![NASM](https://img.shields.io/badge/-NASM-090909?style=flat-square&logo=asm&logoColor=ccf5ff)
 ![github](https://img.shields.io/badge/-github-090909?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=flat-square&logo=docker)
 ![nginx](https://img.shields.io/badge/-nginx-090909?style=flat-square&logo=nginx)
