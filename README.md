@@ -23,6 +23,6 @@
 <p align="center">
   <a href="https://github.com/melisha-git">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melisha-git&show_icons=true&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melisha-git&layout=compact&theme=radical&langs_count=10&hide=PHP,Roff,Swift,ASP.NAE"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melisha-git&layout=compact&theme=radical&langs_count=10&hide=PHP,Roff,Swift,ASP.NET,HTML"/>
   </a>
 </p>
