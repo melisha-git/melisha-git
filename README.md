@@ -12,12 +12,3 @@
 [![wordpress](https://img.shields.io/badge/-wordpress-090909?style=flat-square&logo=wordpress)](https://en.wikipedia.org/wiki/WordPress)
 [![linux](https://img.shields.io/badge/-linux-090909?style=flat-square&logo=linux)](https://ru.wikipedia.org/wiki/Linux)
 [![Malefile](https://img.shields.io/badge/-Makefile-090909?style=flat-square&logo=makefile)](https://ru.wikipedia.org/wiki/Makefile)
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-
-<p align="center">
-  <a href="https://github.com/melisha-git">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melisha-git&show_icons=true&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melisha-git&layout=compact&theme=radical&langs_count=10&hide=PHP,Roff,Swift,ASP.NET,HTML"/>
-  </a>
-</p>
