@@ -1,18 +1,46 @@
 <div id="header" align="center">
-	<img src="./giphy.gif"></img>
+	<a href="https://github.com/melisha-git?tab=repositories">
+		<img src="./gifs/giphy.gif" width="30%"/>
+	</a>
+	<div id="bages">
+		<a href="https://t.me/melisssha">
+			<img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=plastic" alt="Telegram Bages"/>
+		</a>
+		<a href="https://leetcode.com/melisha-git/">
+			<img src="https://img.shields.io/badge/LeetCode-black?logo=leetcode&style=plastic" alt="LeetCode Bages"/>
+		</a>
+	</div>
+	<img src="https://komarev.com/ghpvc/?username=melisha-git&style=plastic&color=yellow" alt="Views Profile Bages"/>
 </div>
+<div align="center">
+  <img src="./gifs/todayis.gif" width="50%"/>
 
-<hr>
+### :drooling_face: About Me :
 
-## Technology list
-[![C++](https://img.shields.io/badge/-C%2b%2b-090909?style=flat-square&logo=C%2b%2b)](https://ru.wikipedia.org/wiki/C%2B%2B)
-[![C](https://img.shields.io/badge/-C-090909?style=flat-square&logo=C)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![asm](https://img.shields.io/badge/-asm-090909?style=flat-square&logo=asm&logoColor=ccf5ff)](https://en.wikipedia.org/wiki/ASM)
-[![github](https://img.shields.io/badge/-github-090909?style=flat-square&logo=github)](https://ru.wikipedia.org/wiki/GitHub)
-[![Docker](https://img.shields.io/badge/-Docker-090909?style=flat-square&logo=docker)](https://ru.wikipedia.org/wiki/Docker)
-[![nginx](https://img.shields.io/badge/-nginx-090909?style=flat-square&logo=nginx)](https://ru.wikipedia.org/wiki/Nginx)
-[![mysql](https://img.shields.io/badge/-mysql-090909?style=flat-square&logo=mysql)](https://ru.wikipedia.org/wiki/MySQL)
-[![wordpress](https://img.shields.io/badge/-wordpress-090909?style=flat-square&logo=wordpress)](https://en.wikipedia.org/wiki/WordPress)
-[![linux](https://img.shields.io/badge/-linux-090909?style=flat-square&logo=linux)](https://ru.wikipedia.org/wiki/Linux)
-[![Malefile](https://img.shields.io/badge/-Makefile-090909?style=flat-square&logo=makefile)](https://ru.wikipedia.org/wiki/Makefile)
-<hr>
+I am a <img src="./gifs/ilovecpp.gif" width="30"/> Backend Developer From Russia.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<img src="./icons/unix.svg" title="Unix" alt="Unix" width="30" height="30"/>
+<img src="./icons/bash.svg" title="bash" alt="bash" width="30" height="30"/>
+<img src="./icons/cmake.svg" title="Cmake" alt="Cmake" width="30" height="30"/>
+<img src="./icons/debian.svg" title="Debian" alt="Debian" width="30" height="30"/>
+<img src="./icons/gcc.svg" title="gcc" alt="gcc" width="30" height="30"/>
+<img src="./icons/mysql.svg" title="MySQL" alt="MySQL" width="30" height="30"/>
+<img src="./icons/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="30" height="30"/>
+<img src="./icons/sqlite.svg" title="sqlite" alt="sqlite" width="30" height="30"/>
+<img src="./icons/cplusplus-line.svg" title="cpp" alt="cpp" width="30" height="30"/>
+<img src="./icons/c.svg" title="C" alt="C" width="30" height="30"/>
+<img src="./icons/git.svg" title="Git" alt="Git" width="30" height="30"/>
+<img src="./icons/vim.svg" title="Vim" alt="Vim" width="30" height="30"/>
+<img src="./icons/visualstudio.svg" title="Visual Studio" alt="Visual Studio" width="30" height="30"/>
+---
+
+### My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=melisha-git&theme=dark&background=000000)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melisha-git&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
