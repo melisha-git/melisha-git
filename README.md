@@ -1,3 +1,6 @@
+<div id="header" align="center">
+	<img src="./giphy.gif"></img>
+</div>
 
 <hr>
 
