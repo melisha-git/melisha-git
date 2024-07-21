@@ -42,6 +42,5 @@ I am a <img src="./gifs/ilovecpp.gif" width="30"/> Backend Developer From Russia
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=melisha-git&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melisha-git&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melisha-git&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)s
 </div>
