@@ -8,7 +8,7 @@
 
 [![Telegram](https://img.shields.io/badge/-@melisssha-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/melisssha)
 [![Email](https://img.shields.io/badge/-esavelievcode@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esavelievcode@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=melisha-git&style=for-the-badge&color=0e75b6)](https://github.com/melisha-git)
+<!-- [![Profile Views](https://komarev.com/ghpvc/?username=melisha-git&style=for-the-badge&color=0e75b6)](https://github.com/melisha-git) -->
 
 </div>
 
