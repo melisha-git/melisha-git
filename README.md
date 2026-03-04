@@ -80,6 +80,6 @@ location:   Moscow, Russia
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melisha-git&layout=compact&theme=tokyonight&hide_border=true&border_radius=8)](https://github.com/anuraghazra/github-readme-stats)
 
-![](./profile-3d-contrib/profile-night-view.svg)
+<!-- ![](./profile-3d-contrib/profile-night-view.svg) -->
 
 </div>
